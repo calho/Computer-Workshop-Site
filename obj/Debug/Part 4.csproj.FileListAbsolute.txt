@@ -1,0 +1,40 @@
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\ApplicationInsights.config
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\Part 4.dll.config
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\Part 4.dll
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\Part 4.pdb
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\Antlr3.Runtime.dll
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\Microsoft.AI.Web.dll
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\Newtonsoft.Json.dll
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\System.Web.Optimization.dll
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\WebGrease.dll
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\System.Web.Optimization.xml
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\Antlr3.Runtime.pdb
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\Newtonsoft.Json.xml
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\Microsoft.AI.Web.xml
+C:\Users\Calvin\source\repos\Part 4\Part 4\obj\Debug\Part 4.csprojResolveAssemblyReference.cache
+C:\Users\Calvin\source\repos\Part 4\Part 4\obj\Debug\Part 4.csproj.CoreCompileInputs.cache
+C:\Users\Calvin\source\repos\Part 4\Part 4\obj\Debug\Part 4.dll
+C:\Users\Calvin\source\repos\Part 4\Part 4\obj\Debug\Part 4.pdb
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\MySql.Data.dll
+C:\Users\Calvin\source\repos\Part 4\Part 4\bin\MySql.Data.xml
+C:\Users\Calvin\source\repos\Part 4\Part 4\obj\Debug\Part 4.csproj.CopyComplete
